@@ -1,3 +1,4 @@
+vdel -all -lib work
 vlib work
 
 vlog mult32x32_fsm.sv
